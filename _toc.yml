@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: logistic_regression/log_reg_book_project.ipynb
+- file: logistic_regression/tasks.ipynb
+- file: markdown
+- file: markdown-notebooks
