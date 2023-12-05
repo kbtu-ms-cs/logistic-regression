@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: logistic_regression/log_reg_book_project.ipynb
+- file: logistic_regression/log_reg.ipynb
